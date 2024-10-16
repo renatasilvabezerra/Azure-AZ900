@@ -38,10 +38,10 @@ A computação em nuvem é a prestação de serviços de computação através d
  ### Modelo de responsabilidade compartilhada:
 
  * São responsabilidades do provedor de nuvem:
-  * segurança física
-  * energia
-  * resfriamento
-  * conectividade de rede
+   * segurança física
+   * energia
+   * resfriamento
+   * conectividade de rede
 
 
 * São responsabilidades do consumidor:
@@ -54,10 +54,10 @@ A computação em nuvem é a prestação de serviços de computação através d
 
 Seu modelo de serviço determinará a responsabilidade por coisas como:
 
-Sistemas operativos
-Controlos de rede
-Aplicações
-Identidade e infraestrutura
+ * Sistemas operativos
+ * Controlos de rede
+ * Aplicações
+ * Identidade e infraestrutura
 
 ## Modelos de nuvem:
 
